@@ -1,0 +1,102 @@
+text,category
+"Customer reported unauthorized transaction on account",Fraud
+"Email escalation regarding delayed wire transfer",Operational
+"Client complaint about service issue",Complaint
+"Suspicious login attempt detected from foreign IP",Fraud
+"Internal policy exception approved by manager",Policy
+"Customer requested account information update",LowRisk
+"Repeated failed payment attempts observed",Fraud
+"Manual review required for large transfer",Operational
+"Customer unhappy with response time from support",Complaint
+"Policy updated for international wire transfers",Policy
+"Routine password reset request from customer",LowRisk
+"Fraud alert triggered due to unusual location",Fraud
+"Transaction processing delay reported by operations",Operational
+"Complaint about incorrect charges on account",Complaint
+"New compliance policy issued for account verification",Policy
+"Customer successfully updated contact details",LowRisk
+"Multiple suspicious transactions flagged",Fraud
+"Operations team reviewing failed settlement",Operational
+"Client dissatisfied with dispute resolution outcome",Complaint
+"Policy review initiated for fraud detection rules",Policy
+"Customer requested balance inquiry",LowRisk
+"Account takeover suspected after unusual login",Fraud
+"Internal escalation for transaction processing failure",Operational
+"Customer complaint regarding hidden fees",Complaint
+"Policy enforcement triggered for KYC requirements",Policy
+"Customer updated mailing address successfully",LowRisk
+"Fraudulent refund request detected",Fraud
+"Manual approval needed for high value payment",Operational
+"Customer reported poor mobile app performance",Complaint
+"Policy violation detected for transaction limit",Policy
+"Customer requested statement download",LowRisk
+"Unusual spike in transaction frequency detected",Fraud
+"Delayed batch processing identified by operations",Operational
+"Client unhappy with loan approval process",Complaint
+"Policy change regarding transaction authentication",Policy
+"Routine inquiry about account balance",LowRisk
+"Suspicious IP address detected during login",Fraud
+"Manual reconciliation required for mismatched entries",Operational
+"Customer complaint about declined transactions",Complaint
+"Policy override approved for VIP client",Policy
+"Customer updated notification preferences",LowRisk
+"Unauthorized device detected accessing account",Fraud
+"Operations flagged error in payment gateway",Operational
+"Customer expressed dissatisfaction with service quality",Complaint
+"Compliance policy updated for fraud monitoring",Policy
+"Customer successfully reset password",LowRisk
+"Transaction flagged for fraud risk scoring",Fraud
+"Internal review required for failed transaction",Operational
+"Complaint logged about billing issue",Complaint
+"New policy implemented for transaction limits",Policy
+"Customer requested account closure",LowRisk
+"Potential phishing activity reported by customer",Fraud
+"Operations team handling payment backlog",Operational
+"Customer complaint regarding delayed refund",Complaint
+"Policy audit triggered for suspicious accounts",Policy
+"Customer updated email address",LowRisk
+"Fraudulent card activity identified",Fraud
+"Manual intervention required for payment processing",Operational
+"Client reported dissatisfaction with support agent",Complaint
+"Policy review completed for compliance team",Policy
+"Customer made routine transaction inquiry",LowRisk
+"Unauthorized transfer attempt detected",Fraud
+"Operations escalated issue to engineering team",Operational
+"Customer complaint about inaccurate statement",Complaint
+"Policy enforcement required for large transfer",Policy
+"Customer requested transaction history",LowRisk
+"Multiple login attempts detected as suspicious",Fraud
+"Internal audit triggered for processing errors",Operational
+"Client complaint on poor resolution of issue",Complaint
+"Updated policy for risk classification",Policy
+"Customer successfully completed KYC update",LowRisk
+"Fraud detected based on behavioral anomaly",Fraud
+"Transaction pending due to operational delay",Operational
+"Complaint regarding overdraft fee",Complaint
+"Policy amendment approved by compliance",Policy
+"Customer updated phone number successfully",LowRisk
+"Suspected identity theft reported",Fraud
+"System outage impacting transaction processing",Operational
+"Customer unhappy with authentication failure",Complaint
+"Policy violation flagged for transaction anomaly",Policy
+"Customer checked account balance via app",LowRisk
+"Fraud alert raised for international payment",Fraud
+"Manual review triggered due to missing data",Operational
+"Customer complaint about transaction charges",Complaint
+"Policy revised for fraud monitoring standards",Policy
+"Customer submitted normal service request",LowRisk
+"Multiple suspicious withdrawals detected",Fraud
+"Operational delay due to system maintenance",Operational
+"Customer dissatisfaction with account handling",Complaint
+"Policy exemption granted for special case",Policy
+"Customer requested new debit card",LowRisk
+"Suspicious transaction routed for fraud review",Fraud
+"Internal operations investigating transaction issue",Operational
+"Customer complaint about credit limit reduction",Complaint
+"Policy enforcement for AML compliance",Policy
+"Customer updated security questions",LowRisk
+"Fraud risk triggered for abnormal behavior",Fraud
+"Operations team processing backlog of transactions",Operational
+"Client complaint regarding customer support delays",Complaint
+"Policy change announced for authentication rules",Policy
+"Customer logged in from known device",LowRisk
