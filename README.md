@@ -37,18 +37,30 @@ User Input
 
 ## Application Preview
 
-### Risk Analysis Dashboard
+### Home Page
 
-![Risk Dashboard](screenshots/home_page.png)
+![Home Page](screenshots/1.home_page.png)
+
+---
+
+### Risk Analysis
+
+![Risk Analysis](screenshots/2.risk_analysis.png)
+
+---
+
+### AI Risk Summary
+
+![Risk Summary](screenshots/3.risk_summary.png)
 
 ---
 
 ### Semantic Search
 
-![Semantic Search](screenshots/semantic_search.png)
+![Semantic Search](screenshots/4.semantic_search.png)
 
 ---
 
 ### Model Monitoring
 
-![Model Monitoring](screenshots/model_evaluation.png)
+![Model Monitoring](screenshots/5.model_evaluation.png)
