@@ -34,3 +34,21 @@ User Input
 - Lambda
 - CloudWatch
 - CI/CD pipelines
+
+## Application Preview
+
+### Risk Analysis Dashboard
+
+![Risk Dashboard](screenshots/home_page.png)
+
+---
+
+### Semantic Search
+
+![Semantic Search](screenshots/semantic_search.png)
+
+---
+
+### Model Monitoring
+
+![Model Monitoring](screenshots/model_evaluation.png)
