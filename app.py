@@ -106,17 +106,21 @@ st.subheader("Model Evaluation")
 if st.button("Show Model Metrics"):
 
     accuracy, report, matrix = evaluate_model()
-
+  
     st.metric("Accuracy", f"{accuracy:.2%}")
 
-    st.write("Classification Report")
-
+    st.write("Classification Report.(Metrics are based on a synthetic MVP dataset for pipeline validation purposes.)")
+    
     st.dataframe(
         pd.DataFrame(report).transpose()
     )
 
-    st.write("Confusion Matrix")
+    st.write("Confusion Matrix. (Metrics are based on a synthetic MVP dataset for pipeline validation purposes.)")
 
     st.dataframe(
         pd.DataFrame(matrix)
+    )
+
+    st.caption(
+        "Metrics are based on a synthetic MVP dataset for pipeline validation purposes."
     )
