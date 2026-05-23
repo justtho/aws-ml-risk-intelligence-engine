@@ -124,3 +124,20 @@ if st.button("Show Model Metrics"):
     st.caption(
         "Metrics are based on a synthetic MVP dataset for pipeline validation purposes."
     )
+
+# ---------------------------------------------------
+# AWS Integration Section
+# ---------------------------------------------------
+
+st.divider()
+
+st.subheader("AWS Integration Readiness")
+
+st.write(
+    "This MVP is designed to extend into AWS using S3 for storage, "
+    "Bedrock for AI summaries, SageMaker for model hosting, and CloudWatch for monitoring."
+)
+
+st.info(
+    "Current phase: Local MVP complete. AWS storage and Bedrock integration in progress."
+)
