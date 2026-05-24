@@ -27,12 +27,31 @@ User Input
 → AI Summary Generation
 → Logging & Monitoring
 
-## Future AWS Enhancements
-- Amazon SageMaker
-- AWS Bedrock
-- OpenSearch
-- Lambda
-- CloudWatch
+## AWS Integration
+
+The application integrates AWS cloud-native services to support scalable AI/ML workflows and enterprise-ready architecture.
+
+### Current AWS Integrations
+- Amazon S3 for cloud storage
+- Amazon Bedrock for GenAI-powered risk summaries
+- AWS CLI and Boto3 integration
+
+## AWS Services Used
+
+| Service | Purpose |
+|---|---|
+| Amazon S3 | Dataset and artifact storage |
+| Amazon Bedrock | AI-generated risk summaries |
+| Boto3 | AWS SDK integration |
+| AWS CLI | Credential and environment configuration |
+
+## Future Enhancements
+
+- SageMaker model deployment
+- OpenSearch vector database
+- Lambda orchestration workflows
+- CloudWatch monitoring
+- API Gateway integration
 - CI/CD pipelines
 
 ## Application Preview
