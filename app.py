@@ -4,7 +4,8 @@ from datetime import datetime
 import os
 
 from src.predict import predict_risk
-from src.rag_pipeline import semantic_search, generate_case_summary
+from src.rag_pipeline import semantic_search
+from aws_utils.bedrock_summary import generate_bedrock_summary
 from src.evaluate_model import evaluate_model
 
 # ---------------------------------------------------
@@ -51,7 +52,7 @@ if st.button("Analyze Risk"):
 
         similar_cases = semantic_search(user_input)
 
-        summary = generate_case_summary(
+        summary = generate_bedrock_summary(
             user_input,
             prediction,
             similar_cases
